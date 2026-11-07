@@ -10,7 +10,7 @@ Tugas Rutin 5 - Pemrograman Mobile (3KOM40215)
 ## Tangkapan Layar
 | Mode Terang | Mode Gelap |
 |---|---|
-| ![Terang](terang.jpeg) | ![Gelap](gelap.jpeg) |
+| ![Terang](screenshot/terang.jpeg) | ![Gelap](screenshot/gelap.jpeg) |
 
 ## Diagram Widget Tree
 ```
